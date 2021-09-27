@@ -7,6 +7,10 @@ python package indexing for Perceptron implemetation
 pip install Perceptron-pypi-vishalbansal-1650
 ```
 
+# URL for pypi
+
+[Perceptron pypi page](https://pypi.org/project/Perceptron-pypi-vishalbansal-1650/)
+
 # References 
 
 [Python Documentation for pypi](https://packaging.python.org/tutorials/packaging-projects/)
