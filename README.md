@@ -1,6 +1,12 @@
 # Perceptron_pypi
 python package indexing for Perceptron implemetation
 
+# How to use 
+
+```python
+pip install Perceptron-pypi-vishalbansal-1650
+```
+
 # References 
 
 [Python Documentation for pypi](https://packaging.python.org/tutorials/packaging-projects/)
