@@ -6,6 +6,24 @@ python package indexing for Perceptron implemetation
 ```python
 pip install Perceptron-pypi-vishalbansal-1650
 ```
+```python
+## Initiate perceptron and fit it
+model = Perceptron(eta=eta, epochs=epochs)
+model.fit(x,y)
+```
+```python
+## Prepare dataset
+x,y = prepare_data(df)
+```
+```python
+## Save model file
+save_model(model,modelName)
+```
+```python
+## Save plot
+save_plot(df,plotName,model)
+```
+
 
 # URL for pypi
 
